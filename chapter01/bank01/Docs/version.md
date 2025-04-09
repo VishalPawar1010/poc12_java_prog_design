@@ -13,7 +13,7 @@ The program runs as a loop that executes commands from the console. There are se
    and an initial balance of 0.
 3) get, which prints the balance of a given account.
 4) deposit, which increases the balance of a given account by a specified number of cents.
-5) authorizeloan, which determines whether an account has enough money to be used as 
+5) authorize loan, which determines whether an account has enough money to be used as 
    collateral for a loan.  The criterion is that the account must contain at least half 
    of the loan amount.
 6) show, which prints the balance of every account.
